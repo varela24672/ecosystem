@@ -7,7 +7,7 @@ branches:
 notifications:
   email:
     recipients:
-      -raul.24672@gmail.com
+      - raul.24672@gmail.com
 # services:
 # - mysql
 # - mongodb
